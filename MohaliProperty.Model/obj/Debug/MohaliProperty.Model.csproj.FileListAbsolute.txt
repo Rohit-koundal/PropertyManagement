@@ -1,0 +1,6 @@
+D:\Training\MohaliProperty.Web\MohaliProperty.Model\bin\Debug\MohaliProperty.Model.dll
+D:\Training\MohaliProperty.Web\MohaliProperty.Model\bin\Debug\MohaliProperty.Model.pdb
+D:\Training\MohaliProperty.Web\MohaliProperty.Model\obj\Debug\MohaliProperty.Model.csproj.AssemblyReference.cache
+D:\Training\MohaliProperty.Web\MohaliProperty.Model\obj\Debug\MohaliProperty.Model.csproj.CoreCompileInputs.cache
+D:\Training\MohaliProperty.Web\MohaliProperty.Model\obj\Debug\MohaliProperty.Model.dll
+D:\Training\MohaliProperty.Web\MohaliProperty.Model\obj\Debug\MohaliProperty.Model.pdb
